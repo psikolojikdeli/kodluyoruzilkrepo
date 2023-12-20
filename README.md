@@ -12,5 +12,5 @@ kodluyoruzilkrepo-main
   #Contributing
 Pull requestler kabul edilir. Büyük değişikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 #License 
-
+https://github.com/psikolojikdeli/kodluyoruzilkrepo?tab=MIT-1-ov-file#MIT-1-ov-file
  
