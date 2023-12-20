@@ -4,5 +4,11 @@
  #  Insallation
  Öncelikle projeyi clonelayın.
  
- # https://github.com/psikolojikdeli/kodluyoruzilkrepo.git
+  https://github.com/psikolojikdeli/kodluyoruzilkrepo.git
+  # Usage
+  Projeyi klonladıktan sonra Visiual Studio Code programını açınız.
+  Linux için:
+kodluyoruzilkrepo-main
+  
+ 
  
