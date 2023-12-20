@@ -7,10 +7,10 @@
   https://github.com/psikolojikdeli/kodluyoruzilkrepo.git
   # Usage
   Projeyi klonladıktan sonra Visiual Studio Code programını açınız.
- #Linux için:
+  # Linux için:
 kodluyoruzilkrepo-main
-  #Contributing
+  # Contributing
 Pull requestler kabul edilir. Büyük değişikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-#License 
+ # License 
 https://github.com/psikolojikdeli/kodluyoruzilkrepo?tab=MIT-1-ov-file#MIT-1-ov-file
  
