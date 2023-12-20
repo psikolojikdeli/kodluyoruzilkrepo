@@ -4,3 +4,5 @@
  #  Insallation
  Öncelikle projeyi clonelayın.
  
+ # https://github.com/psikolojikdeli/kodluyoruzilkrepo.git
+ 
